@@ -33,4 +33,4 @@ jobs:
       - uses: actions/upload-artifact@main
         with:
           name: remark-lint-report
-          path: ${{ github.workspace }}/public/
+          path: ${{ github.workspace }}
