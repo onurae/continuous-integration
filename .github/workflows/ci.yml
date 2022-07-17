@@ -44,4 +44,3 @@ jobs:
         with:
           name: remark-lint-report
           path: public/
-          # There is a path problem here!
